@@ -1,9 +1,0 @@
-C:\UnrealEngine\Engine\Source\Runtime\AudioExtensions\Public\AudioParameter.h
-C:\UnrealEngine\Engine\Source\Runtime\AudioExtensions\Public\AudioParameterControllerInterface.h
-C:\UnrealEngine\Engine\Source\Runtime\AudioExtensions\Public\IAudioCodec.h
-C:\UnrealEngine\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h
-C:\UnrealEngine\Engine\Source\Runtime\AudioExtensions\Public\IAudioExtensionPlugin.h
-C:\UnrealEngine\Engine\Source\Runtime\AudioExtensions\Public\IAudioModulation.h
-C:\UnrealEngine\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldFormat.h
-C:\UnrealEngine\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
-C:\UnrealEngine\Engine\Source\Runtime\AudioExtensions\Private\PcmCodec.h
