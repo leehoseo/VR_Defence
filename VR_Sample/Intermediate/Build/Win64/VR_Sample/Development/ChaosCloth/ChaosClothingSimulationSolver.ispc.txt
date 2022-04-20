@@ -1,0 +1,8 @@
+C:\\UnrealEngine\\Engine\\Plugins\\Experimental\\ChaosCloth\\Source\\Chaos\\Private\\ChaosCloth\\ChaosClothingSimulationSolver.ispc
+C:\\UnrealEngine\\Engine\\Source\\Runtime\\Core\\Public\\Math/Aossoa.isph
+C:\\UnrealEngine\\Engine\\Source\\Runtime\\Core\\Public\\Math/Matrix.isph
+C:\\UnrealEngine\\Engine\\Source\\Runtime\\Core\\Public\\Math/Quat.isph
+C:\\UnrealEngine\\Engine\\Source\\Runtime\\Core\\Public\\Math/Scalar.isph
+C:\\UnrealEngine\\Engine\\Source\\Runtime\\Core\\Public\\Math/Soaaos.isph
+C:\\UnrealEngine\\Engine\\Source\\Runtime\\Core\\Public\\Math/Transform.isph
+C:\\UnrealEngine\\Engine\\Source\\Runtime\\Core\\Public\\Math/Vector.isph

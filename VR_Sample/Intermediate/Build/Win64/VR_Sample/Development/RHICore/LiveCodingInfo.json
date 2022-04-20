@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RHICore.cpp.obj": [
+			"RHICore.cpp.obj",
+			"RHICoreShader.cpp.obj",
+			"RHICoreTransientResourceAllocator.cpp.obj",
+			"RHIPoolAllocator.cpp.obj"
+		]
+	}
+}

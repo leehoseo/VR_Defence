@@ -1,0 +1,49 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SequencerScripting.cpp.obj": [
+			"MovieSceneBindingExtensions.cpp.obj",
+			"MovieSceneEventTrackExtensions.cpp.obj",
+			"MovieSceneFolderExtensions.cpp.obj",
+			"MovieScenePropertyTrackExtensions.cpp.obj",
+			"MovieSceneSectionExtensions.cpp.obj",
+			"MovieSceneSequenceExtensions.cpp.obj",
+			"MovieSceneTrackExtensions.cpp.obj",
+			"MovieSceneVectorTrackExtensions.cpp.obj",
+			"SequencerScriptingRangeExtensions.cpp.obj",
+			"SequencerBindingProxy.cpp.obj",
+			"SequencerScripting.cpp.obj"
+		],
+		"Module.SequencerScripting.gen.1_of_4.cpp.obj": [
+			"MovieSceneBindingExtensions.gen.cpp.obj",
+			"MovieSceneEventTrackExtensions.gen.cpp.obj",
+			"MovieSceneFolderExtensions.gen.cpp.obj",
+			"MovieScenePropertyTrackExtensions.gen.cpp.obj",
+			"MovieSceneScriptingActorReference.gen.cpp.obj",
+			"MovieSceneScriptingBool.gen.cpp.obj",
+			"MovieSceneScriptingByte.gen.cpp.obj"
+		],
+		"Module.SequencerScripting.gen.2_of_4.cpp.obj": [
+			"MovieSceneScriptingChannel.gen.cpp.obj",
+			"MovieSceneScriptingDouble.gen.cpp.obj",
+			"MovieSceneScriptingEvent.gen.cpp.obj",
+			"MovieSceneScriptingFloat.gen.cpp.obj",
+			"MovieSceneScriptingInteger.gen.cpp.obj"
+		],
+		"Module.SequencerScripting.gen.3_of_4.cpp.obj": [
+			"MovieSceneScriptingObjectPath.gen.cpp.obj",
+			"MovieSceneScriptingString.gen.cpp.obj",
+			"MovieSceneSectionExtensions.gen.cpp.obj",
+			"MovieSceneSequenceExtensions.gen.cpp.obj"
+		],
+		"Module.SequencerScripting.gen.4_of_4.cpp.obj": [
+			"MovieSceneTrackExtensions.gen.cpp.obj",
+			"MovieSceneVectorTrackExtensions.gen.cpp.obj",
+			"SequencerBindingProxy.gen.cpp.obj",
+			"SequencerScripting.init.gen.cpp.obj",
+			"SequencerScriptingRange.gen.cpp.obj",
+			"SequencerScriptingRangeExtensions.gen.cpp.obj",
+			"SequenceTimeUnit.gen.cpp.obj"
+		]
+	}
+}

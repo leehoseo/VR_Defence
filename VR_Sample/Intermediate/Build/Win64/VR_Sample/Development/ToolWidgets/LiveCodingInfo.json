@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ToolWidgets.cpp.obj": [
+			"SCheckBoxList.cpp.obj",
+			"SNegativeActionButton.cpp.obj",
+			"SPositiveActionButton.cpp.obj",
+			"SPrimaryButton.cpp.obj",
+			"SSearchableComboBox.cpp.obj",
+			"SSimpleButton.cpp.obj",
+			"SSimpleComboButton.cpp.obj",
+			"SSimpleTimeSlider.cpp.obj",
+			"SWarningOrErrorBox.cpp.obj",
+			"ToolWidgetsModule.cpp.obj"
+		]
+	}
+}

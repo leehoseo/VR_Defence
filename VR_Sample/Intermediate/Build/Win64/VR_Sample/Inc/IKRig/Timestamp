@@ -1,0 +1,17 @@
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\ActorComponents\IKRigInterface.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\AnimNodes\AnimNode_IKRig.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\ActorComponents\IKRigComponent.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\AnimNodes\AnimNode_RetargetPoseFromMesh.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\Retargeter\IKRetargeter.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\Solvers\IKRig_BodyMover.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\Retargeter\IKRetargetProcessor.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\Solvers\IKRig_LimbSolver.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\Solvers\IKRig_PBIKSolver.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\Solvers\IKRig_PoleSolver.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\Solvers\IKRig_SetTransform.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\Solvers\LimbSolver.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\IKRigDefinition.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\IKRigDataTypes.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\IKRigSkeleton.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\IKRigProcessor.h
+C:\UnrealEngine\Engine\Plugins\Animation\IKRig\Source\IKRig\Public\IKRigSolver.h

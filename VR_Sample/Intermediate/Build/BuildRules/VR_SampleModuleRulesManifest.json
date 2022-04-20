@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Programming\\Unreal\\VR_Sample\\Source\\VR_Sample\\VR_Sample.Build.cs",
+		"D:\\Programming\\Unreal\\VR_Sample\\Source\\VR_Sample.Target.cs",
+		"D:\\Programming\\Unreal\\VR_Sample\\Source\\VR_SampleEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

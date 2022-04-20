@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VR_Sample",
+			"Path": "D:\\Programming\\Unreal\\VR_Sample\\Source\\VR_Sample.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VR_SampleEditor",
+			"Path": "D:\\Programming\\Unreal\\VR_Sample\\Source\\VR_SampleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\programming\\unreal\\vr_sample\\intermediate\\build\\win64\\unrealeditor\\inc\\vr_sample\\samplegameinstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengine\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\programming\\unreal\\vr_sample\\intermediate\\build\\win64\\unrealeditor\\development\\vr_sample\\definitions.vr_sample.h",
+            "d:\\programming\\unreal\\vr_sample\\source\\vr_sample\\samplegameinstance.h",
+            "d:\\programming\\unreal\\vr_sample\\intermediate\\build\\win64\\unrealeditor\\inc\\vr_sample\\samplegameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

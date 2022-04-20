@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AudioAnalyzer.cpp.obj": [
+			"AudioAnalyzer.cpp.obj",
+			"AudioAnalyzerFacade.cpp.obj",
+			"AudioAnalyzerModule.cpp.obj",
+			"AudioAnalyzerNRT.cpp.obj",
+			"AudioAnalyzerNRTFacade.cpp.obj",
+			"AudioAnalyzerSubsystem.cpp.obj"
+		],
+		"Module.AudioAnalyzer.gen.cpp.obj": [
+			"AudioAnalyzer.gen.cpp.obj",
+			"AudioAnalyzer.init.gen.cpp.obj",
+			"AudioAnalyzerAsset.gen.cpp.obj",
+			"AudioAnalyzerNRT.gen.cpp.obj",
+			"AudioAnalyzerSubsystem.gen.cpp.obj"
+		]
+	}
+}
